@@ -38,5 +38,7 @@ export default {
 ul{
     display:flex;
     flex-direction: row;
+    width: 200px;
+    
 }
 </style>
